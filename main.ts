@@ -1,9 +1,5 @@
-
-
-
-
-let temperature = 0
 let tempstr = ""
+let temperature = 0
 lcd1602.setAddress(
 lcd1602.I2C_ADDR.addr1
 )
